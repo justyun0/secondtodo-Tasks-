@@ -108,7 +108,7 @@
                             </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="YS9-fr-Gyt"/>
-                        <color key="backgroundColor" systemColor="systemBlueColor"/>
+                        <color key="backgroundColor" systemColor="systemGray2Color"/>
                         <constraints>
                             <constraint firstItem="YS9-fr-Gyt" firstAttribute="trailing" secondItem="uIo-g3-Y2b" secondAttribute="trailing" constant="20" id="6O1-e4-N3m"/>
                             <constraint firstItem="uIo-g3-Y2b" firstAttribute="top" secondItem="YS9-fr-Gyt" secondAttribute="top" constant="20" id="9vd-Nq-ium"/>
@@ -128,8 +128,8 @@
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
-        <systemColor name="systemBlueColor">
-            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
