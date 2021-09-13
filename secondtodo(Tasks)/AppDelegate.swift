@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  secondtodo(Tasks)
 //
-//  Created by 현지윤 on 2021/09/13.
+//  Created by  on 2021/09/13.
 //
 
 import UIKit
